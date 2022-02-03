@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Radhika Soni
 - 👀 I’m interested in Software Engineering
 - 🌱 Pursuing Master's of Computer Applications
-- 💞️ I’m working as a Software Developer at Pencilton
+- 💞️ I’m working as a Software Developer 
 - 📫 Shoot me a mail at 3khushisoni@gmail.com
 
 <!---
